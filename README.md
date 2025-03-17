@@ -1,7 +1,7 @@
 ### HI! I am Ray, who are you? ###
 
 - 💡 I am currently learning the basics of software development, coding, databases and algorithms. Feel free to sent a message!
-- 🖥️ I already have a lot of experience UX/UI design and a bit in front-end design, so i am not a complete Noob.
+- 🖥️ I already have a lot of experience UX/UI design and a bit in front-end design.
 - 🎸 I am into rock music.
 
 
